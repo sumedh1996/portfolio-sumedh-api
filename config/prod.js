@@ -9,5 +9,3 @@ module.exports = {
   AUTH0_AUDIENCE: process.env.AUTH0_AUDIENCE,
   AUTH0_DOMAIN: process.env.AUTH0_DOMAIN,
 }
-
-//mongodb+srv://sumedh_raj:MaySak@1996@cluster0.m5poh.mongodb.net/portfolioDb?retryWrites=true&w=majority
